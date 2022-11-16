@@ -1,6 +1,6 @@
 [package]
 name = "backlight-popup"
-description = "Popup to display xbacklight status"
+description = "A popup to display xbacklight status"
 version = "0.1.0"
 edition = "2021"
 
