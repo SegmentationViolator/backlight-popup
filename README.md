@@ -5,7 +5,7 @@ A popup to display backlight status on Linux (uses xbacklight) written in GTK3.
 ## Motivation
 
 Windows has a popup which is shown when backlight brightness level is changed.
-I wanted to have this on Linux with [LeftWM](leftwm.org), so I decided to create this project.
+I wanted to have this on Linux with [LeftWM](https://leftwm.org), so I decided to create this project.
 
 ## State
 
